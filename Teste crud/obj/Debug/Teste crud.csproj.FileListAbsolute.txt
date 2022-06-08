@@ -1,0 +1,7 @@
+C:\Users\Leonardo\source\repos\Teste crud\Teste crud\bin\Debug\Teste crud.exe.config
+C:\Users\Leonardo\source\repos\Teste crud\Teste crud\bin\Debug\Teste crud.exe
+C:\Users\Leonardo\source\repos\Teste crud\Teste crud\bin\Debug\Teste crud.pdb
+C:\Users\Leonardo\source\repos\Teste crud\Teste crud\obj\Debug\Teste crud.csprojAssemblyReference.cache
+C:\Users\Leonardo\source\repos\Teste crud\Teste crud\obj\Debug\Teste crud.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\source\repos\Teste crud\Teste crud\obj\Debug\Teste crud.exe
+C:\Users\Leonardo\source\repos\Teste crud\Teste crud\obj\Debug\Teste crud.pdb
